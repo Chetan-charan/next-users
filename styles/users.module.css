@@ -1,0 +1,15 @@
+.allUsers {
+    display: flex;
+    gap: 50px;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 2rem;
+  }
+  
+  .user {
+    background-color: wheat;
+    width: min-content;
+    padding: 15px;
+    border-radius: 6px;
+  }
